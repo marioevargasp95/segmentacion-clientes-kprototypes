@@ -56,7 +56,7 @@ def _save_sessions(sessions: dict) -> None:
     with open(SESSIONS_FILE, "w", encoding="utf-8") as f:
         json.dump(sessions, f)
 
-# ── Paleta corporativa (Los Olivos) ───────────────────────────────────────────
+# ── Paleta corporativa ────────────────────────────────────────────────────────
 C_VERDE    = '#24743c'
 C_V_PAL    = '#79a65c'
 C_AMARILLO = '#f39c14'
@@ -91,7 +91,7 @@ pio.templates.default = 'plotly+corp'
 # ─────────────────────────────────────────────────────────────────────────────
 # CONFIGURACIÓN
 # ─────────────────────────────────────────────────────────────────────────────
-_logo_img = Image.open(os.path.join(BASE_DIR, "imagenes", "LogoOlivos_1.png")).convert("RGBA")
+_logo_img = Image.open(os.path.join(BASE_DIR, "imagenes", "Logo.png")).convert("RGBA")
 _lw, _lh  = _logo_img.size
 # Cuadrado con lado = alto de la imagen, recortado desde el ícono circular
 _ix      = int(_lw * 0.09)
@@ -151,7 +151,7 @@ def _login_page() -> None:
     _, col, _ = st.columns([1, 1.4, 1])
     with col:
         st.markdown("## 🔐 Acceso al sistema")
-        st.caption("Segmentación Corporativo · Los Olivos")
+        st.caption("Segmentación Corporativo")
         st.divider()
         with st.form("login_form"):
             usuario = st.text_input("Usuario", placeholder="usuario")
@@ -2475,7 +2475,7 @@ def main() -> None:
         st.session_state["pagina"] = "Dashboard"
 
     with st.sidebar:
-        _logo = os.path.join(BASE_DIR, "imagenes", "LogoOlivos_1.png")
+        _logo = os.path.join(BASE_DIR, "imagenes", "Logo.png")
         if os.path.exists(_logo):
             st.image(_logo, use_container_width=True)
         st.title("Segmentación\nCorporativo")
