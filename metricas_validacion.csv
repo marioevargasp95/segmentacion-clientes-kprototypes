@@ -1,0 +1,2 @@
+k_optimo,gamma_optimo,acc_rf,acc_lr,n_variables,variables
+3,2.0,0.9964727374929736,0.9995784148397976,16,"['Total_afiliados', 'Repatriacion', 'Bicicleta', 'Salud', 'Cuotas', 'ValorTotal_scaled', 'Cantidad_mascotas', 'Estrato', 'Edad', 'Canal', 'REGION', 'TienePadres_V', 'Sexo', 'Producto', 'Estadocivil', 'tiene_nucleo_familiar']"
