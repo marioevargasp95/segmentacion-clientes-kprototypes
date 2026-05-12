@@ -1,0 +1,55 @@
+# Datos reales de clientes (privados)
+*.csv
+*.parquet
+clientes_2020_2025.xlsx
+Consolidado.xlsx
+ReporteAcum.xlsx
+Segmentacion*.xlsx
+PAP_informacion*.csv
+data_limpia.csv
+resultado_etiquetado.csv
+clientes_segmentados.csv
+tabla_clusters.*
+
+# Excluir datos de referencia (estos si se incluyen)
+!municipios_coordenadas.csv
+!metricas_validacion.csv
+!perfiles_clusters.csv
+!DEPARTAMENTO.xlsx
+!edad_mascotas.xlsx
+!muchas_mascotas.xlsx
+!Productos.xlsx
+!verificar_cruce.xlsx
+!df_res.xlsx
+
+# Modelos entrenados (contienen datos privados, >200 MB)
+*.pkl
+
+# Sesiones y credenciales
+sessions.json
+users.json
+
+# Certificados SSL
+ssl/
+Certificate*.pfx
+Certificate*.pem
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*_cells.txt
+output_*.txt
+*_backup_*.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
