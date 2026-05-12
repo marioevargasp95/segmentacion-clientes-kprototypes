@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+kmodes
+phik
+gower
+kneed
+plotnine
+umap-learn
+openpyxl
+streamlit
+joblib
+plotly
