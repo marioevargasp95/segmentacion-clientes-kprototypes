@@ -1,0 +1,10 @@
+[server]
+address   = "0.0.0.0"
+port      = 443
+headless  = true
+sslCertFile = "ssl/cert.pem"
+sslKeyFile  = "ssl/key.pem"
+
+[browser]
+serverAddress = "localhost"
+serverPort    = 443
