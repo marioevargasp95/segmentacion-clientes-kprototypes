@@ -1,0 +1,51 @@
+{
+  "fecha_entrenamiento": "2026-04-30 00:09",
+  "k_optimo": 3,
+  "gamma_optimo": 2.0,
+  "costo_kprototypes": 3962973.0704342313,
+  "n_registros": 355796,
+  "columnas_finales": [
+    "Total_afiliados",
+    "Canal",
+    "Repatriacion",
+    "Bicicleta",
+    "Salud",
+    "Cuotas",
+    "ValorTotal_scaled",
+    "Cantidad_mascotas",
+    "Estrato",
+    "Edad",
+    "REGION",
+    "TieneHijos_V",
+    "TienePadres_V",
+    "TieneEsposa_V",
+    "Sexo",
+    "Producto",
+    "Estadocivil"
+  ],
+  "num_final": [
+    "Total_afiliados",
+    "Repatriacion",
+    "Bicicleta",
+    "Salud",
+    "Cuotas",
+    "ValorTotal_scaled",
+    "Cantidad_mascotas",
+    "Estrato",
+    "Edad"
+  ],
+  "cat_final": [
+    "Canal",
+    "REGION",
+    "TienePadres_V",
+    "Sexo",
+    "Producto",
+    "Estadocivil",
+    "tiene_nucleo_familiar"
+  ],
+  "distribucion_clusters": {
+    "0": 201643,
+    "1": 75304,
+    "2": 78849
+  }
+}
