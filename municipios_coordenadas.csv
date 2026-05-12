@@ -1,0 +1,282 @@
+ciudad_std,departamento,latitud,longitud
+Bogota,Cundinamarca,4.711,-74.0721
+Soacha,Cundinamarca,4.5793,-74.2172
+Zipaquira,Cundinamarca,5.0228,-74.0067
+Cali,Valle del Cauca,3.4516,-76.532
+Ibague,Tolima,4.4389,-75.2322
+Medellin,Antioquia,6.2442,-75.5812
+Bucaramanga,Santander,7.1193,-73.1227
+Barranquilla,Atlántico,10.9639,-74.7964
+Mosquera,Cundinamarca,4.7065,-74.2358
+Villavicencio,Meta,4.142,-73.6266
+Madrid,Cundinamarca,4.7334,-74.2659
+Cucuta,Norte de Santander,7.8939,-72.5078
+Chia,Cundinamarca,4.8608,-74.0354
+Cartagena,Bolívar,10.391,-75.4794
+Neiva,Huila,2.9273,-75.2819
+Funza,Cundinamarca,4.7149,-74.2116
+Pereira,Risaralda,4.8133,-75.6961
+Valledupar,Cesar,10.4779,-73.2496
+Facatativa,Cundinamarca,4.8144,-74.3548
+Santa Marta,Magdalena,11.2408,-74.199
+Cajica,Cundinamarca,4.9178,-74.0253
+Tunja,Boyacá,5.5353,-73.3678
+Floridablanca,Santander,7.064,-73.088
+Pasto,Nariño,1.2136,-77.2811
+Sogamoso,Boyacá,5.7149,-72.9267
+Tocancipa,Cundinamarca,4.9694,-73.9142
+Tenjo,Cundinamarca,4.8713,-74.1444
+Monteria,Córdoba,8.7575,-75.8857
+Armenia,Quindío,4.5339,-75.6811
+Manizales,Caldas,5.0703,-75.5138
+Soledad,Atlántico,10.9171,-74.7671
+Fusagasuga,Cundinamarca,4.3377,-74.3647
+Tabio,Cundinamarca,4.9163,-74.1011
+Barrancabermeja,Santander,7.0653,-73.8547
+Duitama,Boyacá,5.827,-73.0287
+Girardot,Cundinamarca,4.3038,-74.8033
+Palmira,Valle del Cauca,3.5394,-76.3038
+Sibate,Cundinamarca,4.4893,-74.2608
+Cogua,Cundinamarca,5.0632,-73.9798
+Popayan,Cauca,2.4419,-76.606
+Bello,Antioquia,6.3357,-75.5565
+Sincelejo,Sucre,9.3047,-75.3978
+Cartagena de Indias,Bolívar,10.391,-75.4794
+Yopal,Casanare,5.3378,-72.3953
+Dosquebradas,Risaralda,4.8394,-75.6673
+Chiquinquira,Boyacá,5.6171,-73.8167
+Cota,Cundinamarca,4.8077,-74.1025
+Giron,Santander,7.075,-73.1681
+Riohacha,La Guajira,11.5444,-72.9072
+Envigado,Antioquia,6.1754,-75.5902
+Piedecuesta,Santander,6.9869,-73.0527
+Turbo,Antioquia,8.0956,-76.7267
+Florencia,Caquetá,1.6145,-75.6065
+Sopo,Cundinamarca,4.9055,-73.9417
+Villa de San Diego de Ubate,Cundinamarca,5.3095,-73.8193
+Itagui,Antioquia,6.1849,-75.5991
+Agua de Dios,Cundinamarca,4.3754,-74.6714
+la Mesa,Cundinamarca,4.6362,-74.4671
+el Rosal,Cundinamarca,4.8569,-74.268
+Buenaventura,Valle del Cauca,3.8802,-77.031
+Cucunuba,Cundinamarca,5.2561,-73.7886
+San Gil,Santander,6.5567,-73.1362
+Pacho,Cundinamarca,5.132,-74.1592
+Cartago,Valle del Cauca,4.7454,-75.9122
+Sabanalarga,Atlántico,10.6285,-74.922
+Rionegro,Antioquia,6.1553,-75.3741
+Tuluá,Valle del Cauca,4.0878,-76.1993
+Quibdo,Chocó,5.6944,-76.6578
+San Andres,San Andrés,12.5847,-81.7006
+Leticia,Amazonas,-4.2153,-69.9406
+Puerto Carreno,Vichada,6.1896,-67.4895
+Mitu,Vaupés,1.2527,-70.2337
+Inirida,Guainía,3.8653,-67.9239
+Puerto Inirida,Guainía,3.8653,-67.9239
+Arauca,Arauca,7.0875,-70.7617
+Mocoa,Putumayo,1.1486,-76.6497
+San Jose del Guaviare,Guaviare,2.5658,-72.6378
+Yumbo,Valle del Cauca,3.5897,-76.4955
+Buga,Valle del Cauca,3.9003,-76.2975
+Guadalajara de Buga,Valle del Cauca,3.9003,-76.2975
+Jamundi,Valle del Cauca,3.2632,-76.5369
+Sabaneta,Antioquia,6.1512,-75.6175
+Copacabana,Antioquia,6.3534,-75.5117
+La Estrella,Antioquia,6.157,-75.6417
+Caldas,Antioquia,6.0916,-75.6347
+Girardota,Antioquia,6.379,-75.4506
+Barbosa,Antioquia,6.4363,-75.3316
+Apartado,Antioquia,7.8814,-76.6296
+Caucasia,Antioquia,7.986,-75.1974
+Yarumal,Antioquia,6.973,-75.4153
+Andes,Antioquia,5.6566,-75.8779
+Santa Rosa de Osos,Antioquia,6.6434,-75.4611
+Marinilla,Antioquia,6.1778,-75.3349
+El Carmen de Viboral,Antioquia,6.0877,-75.3382
+Guarne,Antioquia,6.2771,-75.4452
+Concepcion,Antioquia,6.3981,-75.2693
+Amaga,Antioquia,6.0396,-75.7011
+Fredonia,Antioquia,5.9302,-75.6786
+La Ceja,Antioquia,6.0253,-75.4261
+Abejorral,Antioquia,5.7905,-75.4298
+Santa Barbara,Antioquia,5.8757,-75.5771
+Jerico,Antioquia,5.7887,-75.7849
+Caicedo,Antioquia,6.3938,-75.9994
+Urrao,Antioquia,6.318,-76.139
+Mutatá,Antioquia,7.2428,-76.4358
+Necoclí,Antioquia,8.4245,-76.7816
+San Juan de Urabá,Antioquia,8.759,-76.5318
+Arboletes,Antioquia,8.8518,-76.4279
+San Pedro de Urabá,Antioquia,8.2792,-76.3811
+Montebello,Antioquia,5.9496,-75.4898
+El Santuario,Antioquia,6.14,-75.2679
+Penol,Antioquia,6.2157,-75.2337
+Granada,Antioquia,6.1497,-75.201
+Cocorna,Antioquia,6.0615,-74.9852
+Sonsón,Antioquia,5.7118,-75.3093
+Nariño,Antioquia,5.8183,-74.9835
+Buritica,Antioquia,6.7145,-75.9237
+Liborina,Antioquia,6.687,-75.9659
+Segovia,Antioquia,7.0826,-74.7077
+Remedios,Antioquia,6.9024,-74.6937
+Zaragoza,Antioquia,7.4913,-74.8709
+El Bagre,Antioquia,7.5964,-74.8145
+Nechi,Antioquia,8.0998,-74.7689
+Cáceres,Antioquia,7.5831,-75.3422
+Tarazá,Antioquia,7.8824,-75.3944
+Valdivia,Antioquia,7.203,-75.452
+Anorí,Antioquia,7.074,-75.1421
+Ituango,Antioquia,7.1659,-75.7631
+Peque,Antioquia,6.9141,-75.8766
+Frontino,Antioquia,6.7796,-76.1353
+Dabeiba,Antioquia,7.0069,-76.2651
+Chigorodó,Antioquia,7.6681,-76.6868
+Carepa,Antioquia,7.7622,-76.6587
+Mutata,Antioquia,7.2428,-76.4358
+Bucarasica,Norte de Santander,8.0338,-73.0193
+Ocaña,Norte de Santander,8.2352,-73.3577
+Pamplona,Norte de Santander,7.3775,-72.6497
+Villa del Rosario,Norte de Santander,7.8278,-72.4738
+Los Patios,Norte de Santander,7.8435,-72.5191
+El Zulia,Norte de Santander,7.9355,-72.5934
+Sardinata,Norte de Santander,8.0849,-72.8063
+Tibu,Norte de Santander,8.6432,-72.733
+Abrego,Norte de Santander,8.0857,-73.2181
+Hacari,Norte de Santander,8.2766,-73.1263
+La Playa,Norte de Santander,8.3203,-73.2122
+San Calixto,Norte de Santander,8.3994,-72.9901
+Teorama,Norte de Santander,8.4277,-73.0758
+Convencion,Norte de Santander,8.4735,-73.1894
+Elcarmende Chucuri,Santander,6.6895,-73.5175
+Socorro,Santander,6.4629,-73.2665
+Velez,Santander,6.0116,-73.6726
+Puente Nacional,Santander,5.8788,-73.6876
+Cerinza,Boyacá,5.9163,-72.9028
+Nobsa,Boyacá,5.7706,-72.9553
+Paipa,Boyacá,5.7817,-73.1148
+Santa Rosa de Viterbo,Boyacá,5.8845,-72.9895
+Belen,Boyacá,6.0222,-72.9441
+Corrales,Boyacá,5.8994,-72.8753
+Mongua,Boyacá,5.7327,-72.8064
+Monguí,Boyacá,5.7261,-72.8445
+Garagoa,Boyacá,4.997,-73.3569
+Miraflores,Boyacá,5.1994,-73.1472
+Guateque,Boyacá,4.9972,-73.4702
+Samaca,Boyacá,5.4858,-73.4811
+Villa de Leyva,Boyacá,5.6352,-73.5253
+Raquira,Boyacá,5.538,-73.6385
+Sutamarchan,Boyacá,5.6225,-73.6724
+Sachica,Boyacá,5.6572,-73.5862
+Arcabuco,Boyacá,5.758,-73.4481
+Gameza,Boyacá,5.7908,-72.7847
+Tota,Boyacá,5.5573,-72.8978
+Aquitania,Boyacá,5.5119,-72.8823
+Cuitiva,Boyacá,5.595,-72.878
+Iza,Boyacá,5.6224,-72.9703
+Firavitoba,Boyacá,5.654,-73.0047
+Tibasosa,Boyacá,5.7381,-72.9927
+Floresta,Boyacá,5.8757,-72.9262
+Busbanza,Boyacá,5.8713,-72.8787
+Paz de Rio,Boyacá,6.0174,-72.7593
+Socha,Boyacá,6.0359,-72.6845
+Socota,Boyacá,6.071,-72.6368
+Pisba,Boyacá,6.0268,-72.5082
+Chita,Boyacá,6.1862,-72.4643
+Güicán,Boyacá,6.4645,-72.2695
+El Cocuy,Boyacá,6.405,-72.4476
+Guacamayas,Boyacá,6.4127,-72.4017
+Panqueba,Boyacá,6.3993,-72.3841
+Cubara,Boyacá,6.8316,-72.096
+Espinal,Tolima,4.1514,-74.8873
+Flandes,Tolima,4.2917,-74.8088
+Honda,Tolima,5.2087,-74.7358
+Mariquita,Tolima,5.2021,-74.8917
+Líbano,Tolima,4.926,-75.0551
+Fresno,Tolima,5.1558,-75.0384
+Venadillo,Tolima,4.7217,-74.9342
+Lérida,Tolima,4.8693,-74.9152
+Armero,Tolima,5.0257,-74.909
+Guayabal,Tolima,5.0699,-74.8219
+Ambalema,Tolima,4.7871,-74.7738
+Casabianca,Tolima,5.0895,-75.1256
+Murillo,Tolima,4.8706,-75.1975
+Villahermosa,Tolima,5.0268,-75.2003
+Santa Isabel,Tolima,4.7397,-75.2403
+Anzoategui,Tolima,4.4893,-75.1147
+Rovira,Tolima,4.2447,-75.2355
+San Luis,Tolima,4.1561,-75.0397
+Ortega,Tolima,3.9289,-75.2169
+Coyaima,Tolima,3.7869,-75.195
+Natagaima,Tolima,3.6217,-75.0977
+Purificacion,Tolima,3.8585,-74.9341
+Suarez,Tolima,3.9964,-74.8768
+Saldaña,Tolima,3.9336,-74.9672
+Prado,Tolima,3.7389,-74.9142
+Dolores,Tolima,3.5618,-74.9111
+Alpujarra,Tolima,3.3843,-74.9394
+Cunday,Tolima,4.0933,-74.6887
+Villarrica,Tolima,4.1361,-74.7523
+Icononzo,Tolima,4.1897,-74.5344
+Melgar,Tolima,4.2014,-74.6479
+Carmen de Apicala,Tolima,4.155,-74.7246
+Nilo,Cundinamarca,4.2793,-74.6294
+Ricaurte,Cundinamarca,4.2972,-74.7716
+Viotá,Cundinamarca,4.4389,-74.5263
+Cachipay,Cundinamarca,4.601,-74.4356
+Zipacon,Cundinamarca,4.7326,-74.3965
+Bojaca,Cundinamarca,4.7416,-74.3388
+Tena,Cundinamarca,4.6624,-74.3859
+San Antonio del Tequendama,Cundinamarca,4.6245,-74.351
+Sibaté,Cundinamarca,4.4893,-74.2608
+San Bernardo,Cundinamarca,4.1803,-74.4227
+Arbelaez,Cundinamarca,4.2715,-74.4155
+Pasca,Cundinamarca,4.3072,-74.3009
+Silvania,Cundinamarca,4.4019,-74.3889
+Tibacuy,Cundinamarca,4.3525,-74.4544
+Cabrera,Cundinamarca,3.9803,-74.4805
+Venecia,Cundinamarca,4.0932,-74.4727
+Pandi,Cundinamarca,4.191,-74.4921
+Yacopí,Cundinamarca,5.453,-74.3361
+Caparrapi,Cundinamarca,5.3509,-74.4943
+El Peñon,Cundinamarca,5.2627,-74.4231
+Guaduas,Cundinamarca,5.0723,-74.5972
+Villeta,Cundinamarca,5.0135,-74.4737
+La Vega,Cundinamarca,4.9977,-74.349
+Sasaima,Cundinamarca,4.9732,-74.4316
+Albán,Cundinamarca,4.8739,-74.441
+Supatá,Cundinamarca,5.04,-74.2816
+San Francisco,Cundinamarca,4.9706,-74.294
+Quebradanegra,Cundinamarca,5.1283,-74.2853
+Utica,Cundinamarca,5.1747,-74.3882
+Nocaima,Cundinamarca,5.0921,-74.3721
+Vergara,Cundinamarca,5.1951,-74.3282
+Guayabal de Síquima,Cundinamarca,4.9266,-74.4677
+Bituima,Cundinamarca,4.9017,-74.5407
+Chaguaní,Cundinamarca,4.8614,-74.6036
+Vianí,Cundinamarca,4.8718,-74.5369
+San Juan de Río Seco,Cundinamarca,4.8586,-74.6605
+Beltrán,Cundinamarca,4.62,-74.7479
+Jerusalen,Cundinamarca,4.5649,-74.7183
+Pulí,Cundinamarca,4.7063,-74.704
+Guataquí,Cundinamarca,4.5836,-74.7986
+Tocaima,Cundinamarca,4.4617,-74.6362
+Subachoque,Cundinamarca,4.9316,-74.1724
+San Cayetano,Cundinamarca,5.3,-74.0833
+Villapinzon,Cundinamarca,5.2167,-73.6
+Choconta,Cundinamarca,5.1442,-73.6872
+Suesca,Cundinamarca,5.1009,-73.8037
+Sesquilé,Cundinamarca,5.0537,-73.7995
+Guatavita,Cundinamarca,4.9343,-73.8342
+Gachancipá,Cundinamarca,4.9972,-73.8838
+La Calera,Cundinamarca,4.7202,-73.8993
+Guasca,Cundinamarca,4.8659,-73.8756
+Junin,Cundinamarca,4.7814,-73.6791
+Fomeque,Cundinamarca,4.4866,-73.8999
+Ubaque,Cundinamarca,4.5138,-73.9573
+Chipaque,Cundinamarca,4.4423,-74.0351
+Une,Cundinamarca,4.401,-73.9958
+Gutierrez,Cundinamarca,4.2176,-74.0177
+Quetame,Cundinamarca,4.3329,-73.8644
+Caqueza,Cundinamarca,4.3506,-73.9449
+Choachi,Cundinamarca,4.5321,-73.9286
+Belmira,Antioquia,6.6096,-75.6683
